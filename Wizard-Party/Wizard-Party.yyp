@@ -400,6 +400,25 @@
             }
         },
         {
+            "Key": "32cc4edf-9d9a-406a-a3fd-eac1b8980e25",
+            "Value": {
+                "id": "d62cf8ad-c468-49f4-9236-b69396c05cf3",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/obj_Game\/obj_Game.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "34d7c22a-7a9b-41ae-9ac0-bc982ccec56b",
             "Value": {
                 "id": "f3e99b36-9a42-4d1f-96ed-1ff4683cfb7f",
@@ -799,6 +818,25 @@
             }
         },
         {
+            "Key": "7a42982f-ffea-4ebc-a93d-9532c7c8c822",
+            "Value": {
+                "id": "a1af4c98-a156-43d5-8c78-5c3956029b74",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/obj_Input\/obj_Input.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "7e05685c-807c-4cd8-b3b5-adcadf3099ba",
             "Value": {
                 "id": "a853675f-d9ba-4b76-bcb3-d72f4860dbe3",
@@ -891,6 +929,25 @@
                 ],
                 "resourcePath": "sprites\/spr_SwordHitBox\/spr_SwordHitBox.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "8cfd22bc-bb67-41bd-a190-2fa3c73e2251",
+            "Value": {
+                "id": "d722ec55-e3e0-4584-a55d-3de88cc35871",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "rooms\/rm_innit\/rm_innit.yy",
+                "resourceType": "GMRoom"
             }
         },
         {

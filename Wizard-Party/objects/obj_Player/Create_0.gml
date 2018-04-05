@@ -1,6 +1,7 @@
 //Initialize Variables
 
 initialize_movement_entity(.5, 1, obj_Solid);
+initialize_hurtbox_entity();
 
 image_speed = 0;
 acceleration_ = .5;

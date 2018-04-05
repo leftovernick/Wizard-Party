@@ -12,5 +12,5 @@ if animation_hit_frame(3) {
 if animation_hit_frame(image_number-1) {
 	state_ = porcupine.idle;
 	sprite_inex = spr_PorcupineRun;
-	alarm[1] = 2*game_get_speed(gamespeed_fps);
+	alarm[1] = 2*global.one_second;
 }
