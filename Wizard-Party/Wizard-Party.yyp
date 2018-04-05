@@ -327,6 +327,22 @@
             }
         },
         {
+            "Key": "7fa8a542-ce1f-4af9-8090-9cca3a60bccf",
+            "Value": {
+                "id": "a8013711-3fd5-4ea1-ad91-1f709528646e",
+                "resourcePath": "sprites\\spr_PorcupineHitBox\\spr_PorcupineHitBox.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "81fd9416-752f-4bdc-9931-62f73fa359fb",
+            "Value": {
+                "id": "11f43093-1ab7-4d59-8cb0-64fd74ab7c8d",
+                "resourcePath": "scripts\\porcupine_attack\\porcupine_attack.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "87e9f99f-4b79-4329-96c5-77e1fc8b6853",
             "Value": {
                 "id": "84e904c6-8957-4822-b9ca-9ae3553b3d58",
@@ -536,7 +552,8 @@
         "122a5629-ed59-4a0e-83b3-0cfdca2dbad0",
         "ebf15ea5-c04a-4d97-898c-67939e14494a",
         "5f392e65-4e33-42c9-b911-25f97d4ea2ed",
-        "1bd1a856-a6cd-46ee-92ec-05cb12e52d73"
+        "1bd1a856-a6cd-46ee-92ec-05cb12e52d73",
+        "81fd9416-752f-4bdc-9931-62f73fa359fb"
     ],
     "tutorial": ""
 }
