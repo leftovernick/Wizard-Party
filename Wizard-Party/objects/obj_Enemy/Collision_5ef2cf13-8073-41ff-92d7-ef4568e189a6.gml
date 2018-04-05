@@ -7,5 +7,6 @@ if hurtbox_entity_can_be_hit_by(other) {
 	health_ -= other.damage_;
 	state_ = enemy.hit;
 	var _knockback_direction = point_direction(other.x, other.y, x, y);
+	create_animation_effect(spr_HitEffect, x, y-8, 1, true);
 	set_movement(_knockback_direction, other.knockback_);
 }

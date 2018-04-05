@@ -514,6 +514,25 @@
             }
         },
         {
+            "Key": "3ae42851-8aa4-4510-974f-841a76c2cdb3",
+            "Value": {
+                "id": "274cccc7-b381-42cc-9d19-df49e11ba61b",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "scripts\/create_animation_effect\/create_animation_effect.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "3d5620b4-d500-4044-a69b-d3404bbae8ef",
             "Value": {
                 "id": "f61f3861-2d24-47a3-8651-4df0bc6b9c49",
@@ -571,6 +590,25 @@
             }
         },
         {
+            "Key": "49c60b22-e61e-46d1-819e-b887d01efee5",
+            "Value": {
+                "id": "275dddfd-6812-4f50-bff4-18903ebd97f3",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/obj_AnimationEffect\/obj_AnimationEffect.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "4cd1fea6-560c-48b7-a8c9-714ba4007c6d",
             "Value": {
                 "id": "df1aea65-00ee-4622-b4bc-1524e31abc1d",
@@ -625,6 +663,25 @@
                 ],
                 "resourcePath": "scripts\/initialize_movement_entity\/initialize_movement_entity.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "5e8db05b-ecd5-4722-84de-de0c85fcfde5",
+            "Value": {
+                "id": "d6753fbe-5b29-4326-8e88-11d32f46e42d",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/spr_GrassEffect\/spr_GrassEffect.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -1274,6 +1331,25 @@
             }
         },
         {
+            "Key": "d8859fff-d155-4787-a47b-c164a7bf91f0",
+            "Value": {
+                "id": "ecda2924-7af0-4c15-af72-60a8867295a7",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "views\/d8859fff-d155-4787-a47b-c164a7bf91f0.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "dd60e84b-924a-4fd2-bdb0-386ec81605c1",
             "Value": {
                 "id": "34cd2379-5788-4914-87e2-cf8ea7d1360c",
@@ -1312,6 +1388,25 @@
             }
         },
         {
+            "Key": "e699045a-7992-48c5-af86-569462ded727",
+            "Value": {
+                "id": "6796bfca-ab84-4da7-a763-4caefe094924",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/spr_DeathEffect\/spr_DeathEffect.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "ea6c31a3-c2bc-4a07-8065-5dd6449754eb",
             "Value": {
                 "id": "9b06f875-b173-4405-867b-f1263b0ed9dc",
@@ -1328,6 +1423,25 @@
                 ],
                 "resourcePath": "scripts\/add_movement_maxspeed\/add_movement_maxspeed.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "ebda87bb-c36d-4dc1-861c-1cd0c41ed6c2",
+            "Value": {
+                "id": "b6892b9d-4dc3-4414-8084-8c194ee257b9",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/spr_HitEffect\/spr_HitEffect.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -1386,6 +1500,25 @@
                 "resourcePath": "options\/mac\/options_mac.yy",
                 "resourceType": "GMMacOptions"
             }
+        },
+        {
+            "Key": "ff27895f-cd51-448a-9d79-f30bf75ef03b",
+            "Value": {
+                "id": "e697deb4-4cc9-4648-836a-e6526ea7e828",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "views\/ff27895f-cd51-448a-9d79-f30bf75ef03b.yy",
+                "resourceType": "GMFolder"
+            }
         }
     ],
     "script_order": [
@@ -1401,7 +1534,8 @@
         "1bd1a856-a6cd-46ee-92ec-05cb12e52d73",
         "69c500c0-5846-4208-af60-48d66ea54d02",
         "1407e841-7498-44a8-a611-72235049d91f",
-        "4cd1fea6-560c-48b7-a8c9-714ba4007c6d"
+        "4cd1fea6-560c-48b7-a8c9-714ba4007c6d",
+        "3ae42851-8aa4-4510-974f-841a76c2cdb3"
     ],
     "tutorial": ""
 }
