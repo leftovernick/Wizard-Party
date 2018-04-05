@@ -1,5 +1,6 @@
 /// @description Initialize Variables
-initialize_movement_entity(1, .5, obj_Solid)
+initialize_movement_entity(1, .5, obj_Solid);
+initialize_hurtbox_entity();
 
 image_speed = 0;
 

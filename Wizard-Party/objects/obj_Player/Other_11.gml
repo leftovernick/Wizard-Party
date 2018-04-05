@@ -8,7 +8,7 @@ if animation_hit_frame(1) {
 	var _life = 3;
 	var _damage = 1;
 	var _knockback = 8;
-	var _hitbox = create_hitbox(spr_SwordHitBox, x, y, _angle, _life, [], _damage, _knockback);	
+	var _hitbox = create_hitbox(spr_SwordHitBox, x, y, _angle, _life, [obj_Enemy], _damage, _knockback);	
 	
 	// Adjust for direction_facing_
 	switch direction_facing_ {

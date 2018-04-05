@@ -6,7 +6,7 @@ if _x_speed != 0 {
 	image_xscale = sign(_x_speed);
 }
 
-if alarm[0] <= 0 {
+if alarm[1] <= 0 {
 	apply_friction_to_movement_entity();
 } else {
 	add_movement_maxspeed(direction_, .05, .5);
@@ -15,7 +15,7 @@ if alarm[0] <= 0 {
 move_movement_entity(true);
 
 if speed_ == 0 {
-	alarm[0] = random_range(1, 3) * game_get_speed(gamespeed_fps);
+	alarm[1] = random_range(1, 3) * game_get_speed(gamespeed_fps);
 	state_ = porcupine.idle;
 }
 
