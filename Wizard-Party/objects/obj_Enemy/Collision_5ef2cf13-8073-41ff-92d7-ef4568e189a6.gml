@@ -3,10 +3,11 @@
 if health_ <= 0 exit;
 if hurtbox_entity_can_be_hit_by(other) {
 	invincible_ = true;
-	alarm[0] = global.one_second/4;
+	alarm[0] = global.one_second * .5;
 	health_ -= other.damage_;
 	state_ = enemy.hit;
 	var _knockback_direction = point_direction(other.x, other.y, x, y);
 	create_animation_effect(spr_HitEffect, x, y-8, 1, true);
 	set_movement(_knockback_direction, other.knockback_);
+	audio_play_sound(a_hit, 7, false);
 }

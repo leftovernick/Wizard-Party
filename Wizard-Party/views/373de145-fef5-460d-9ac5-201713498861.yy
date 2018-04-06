@@ -7,7 +7,9 @@
         "20141d70-56e2-4013-93a8-7d5202cff712",
         "2a63b5d4-a143-41d7-95fc-9c501106a242",
         "88438932-662f-4e9d-8033-14df25d1da44",
-        "7fa8a542-ce1f-4af9-8090-9cca3a60bccf"
+        "7fa8a542-ce1f-4af9-8090-9cca3a60bccf",
+        "49face71-9d1b-474a-8989-79fd5d39c9ed",
+        "476e1ed9-56ed-430e-959e-76e9386325ac"
     ],
     "filterType": "GMSprite",
     "folderName": "Collision Sprites",

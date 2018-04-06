@@ -11,12 +11,14 @@ direction_facing_ = dir.right;
 roll_direction_ = dir.right;
 
 
-global.playerHealth = 4;
-
 enum player {
 	move,
 	sword,
-	evade
+	evade,
+	bomb,
+	bow,
+	found_item,
+	hit
 }
 
 enum dir {
@@ -26,7 +28,8 @@ enum dir {
 	down
 }
 
-state_ = player.move;
+starting_state_ = player.move;
+state_ = starting_state_;
 
 // Sprite Lookup Table
 // Move
@@ -46,3 +49,9 @@ sprite_[player.evade, dir.right] = spr_PlayerRollRight;
 sprite_[player.evade, dir.up] = spr_PlayerRollUp;
 sprite_[player.evade, dir.left] = spr_PlayerRollRight;
 sprite_[player.evade, dir.down] = spr_PlayerRollDown;
+
+// Move
+sprite_[player.hit, dir.right] = spr_PlayerRunRight;
+sprite_[player.hit, dir.up] = spr_PlayerRunUp;
+sprite_[player.hit, dir.left] = spr_PlayerRunRight;
+sprite_[player.hit, dir.down] = spr_PlayerRunDown;
