@@ -1,0 +1,1 @@
+create_animation_effect(spr_GemShineEffect, x, y-8, 1, false);

@@ -6,7 +6,8 @@
     "children": [
         "5e8db05b-ecd5-4722-84de-de0c85fcfde5",
         "ebda87bb-c36d-4dc1-861c-1cd0c41ed6c2",
-        "e699045a-7992-48c5-af86-569462ded727"
+        "e699045a-7992-48c5-af86-569462ded727",
+        "0d5bbc2c-b6e2-4829-85db-c50ff69706e6"
     ],
     "filterType": "GMSprite",
     "folderName": "Effect Sprites",
