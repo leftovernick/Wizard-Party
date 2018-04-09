@@ -1,3 +1,6 @@
+if taken_ == true {
+	exit;
+}
 
 _above = place_meeting(x, y-5, obj_Player);
 _below = place_meeting(x, y+5, obj_Player);
@@ -9,4 +12,5 @@ if _above and obj_Input.action_one_pressed_ or _below and obj_Input.action_one_p
 	event_user(0)
 	alarm[0] = global.one_second;
 	obj_Player.state_ = player.found_item;
+	taken_ = true;
 }
