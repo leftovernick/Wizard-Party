@@ -8,7 +8,7 @@ if animation_hit_frame(1) {
 	var _life = 3;
 	var _damage = 1;
 	var _knockback = 8;
-	var _hitbox = create_hitbox(spr_SwordHitBox, x, y, _angle, _life, [obj_Enemy, obj_Grass], _damage, _knockback);	
+	var _hitbox = create_hitbox(spr_SwordHitBox, x, y, _angle, _life, [obj_Enemy, obj_Grass, obj_Bush], _damage, _knockback);	
 	audio_play_sound(a_swipe, 8, false);
 	
 	// Adjust for direction_facing_

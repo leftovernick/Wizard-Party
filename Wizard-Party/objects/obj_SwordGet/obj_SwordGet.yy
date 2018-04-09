@@ -5,7 +5,17 @@
     "name": "obj_SwordGet",
     "eventList": [
         {
-            "id": "16f38dab-d161-4bae-96a9-7887625d47a8",
+            "id": "6f58f9ab-6ea0-4286-8919-b75548b3d79e",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 10,
+            "eventtype": 7,
+            "m_owner": "bed84e8d-677a-45b2-823a-f92ed5607c4d"
+        },
+        {
+            "id": "1e69d34d-22db-49db-b378-ad89969791d6",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
@@ -13,21 +23,11 @@
             "enumb": 0,
             "eventtype": 0,
             "m_owner": "bed84e8d-677a-45b2-823a-f92ed5607c4d"
-        },
-        {
-            "id": "32394c04-eb65-4b94-bb02-21bfbaca6a56",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 3,
-            "m_owner": "bed84e8d-677a-45b2-823a-f92ed5607c4d"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
-    "parentObjectId": "0a1f61b1-5cf4-4151-ad16-2be9f188701f",
+    "parentObjectId": "8bfa57ba-c491-48d2-9691-bca00e4e66ec",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,

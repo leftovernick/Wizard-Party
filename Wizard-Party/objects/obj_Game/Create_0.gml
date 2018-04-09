@@ -8,9 +8,9 @@ var _font_string = "ABCDEFGHIJKLMNOPQRSTUVWXYZ.abcdefghijklmnopqrstuvwxyz1234567
 global.font = font_add_sprite_ext(spr_Font, _font_string, true, 1)
 draw_set_font(global.font);
 
-global.player_max_health = 4;
+global.player_max_health = 2;
 global.player_health = global.player_max_health;
-global.player_max_stamina = 3;
+global.player_max_stamina = 1;
 global.player_stamina = global.player_max_stamina;
 global.player_gems = 0;
 global.player_start_position = i_game_start;
@@ -32,6 +32,6 @@ global.item[1] = noone;
 item_index_ = 0;
 
 inventory_create(6);
-inventory_add_item(obj_RingItem);
-inventory_add_item(obj_SwordItem);
-inventory_add_item(obj_BombItem);
+//inventory_add_item(obj_RingItem);
+//inventory_add_item(obj_SwordItem);
+//inventory_add_item(obj_BombItem);
