@@ -2,7 +2,7 @@
 
 image_speed = .35;
 
-if animation_hit_frame(1) {
+if animation_hit_frame(0) {
 	var _damage = 1;
 	var _knockback = 4;
 	var _life = 10;

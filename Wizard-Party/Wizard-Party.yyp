@@ -1236,6 +1236,25 @@
             }
         },
         {
+            "Key": "5e977619-d1ba-4465-ad1a-0e07e031b634",
+            "Value": {
+                "id": "4fd547e9-79d4-48a8-89a0-ea45ec2bc2cf",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "rooms\/rm_sword\/rm_sword.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "5f392e65-4e33-42c9-b911-25f97d4ea2ed",
             "Value": {
                 "id": "535dc243-bc8a-4b37-afc3-c93b50108cd4",
@@ -1689,6 +1708,25 @@
                 ],
                 "resourcePath": "tilesets\/tile_DirtWall\/tile_DirtWall.yy",
                 "resourceType": "GMTileSet"
+            }
+        },
+        {
+            "Key": "7e294358-60d7-41a0-af99-8d2e545f1be8",
+            "Value": {
+                "id": "5f59e559-2796-4dd3-a7db-c0d94171eb34",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/spr_SwordItemGet\/spr_SwordItemGet.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -2186,6 +2224,25 @@
             }
         },
         {
+            "Key": "ae3c63fd-4dda-4d8b-bb5c-a9b74b8bfbb1",
+            "Value": {
+                "id": "ad343b12-e2a1-491a-a53c-88c88c92f927",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/spr_HeartPlusOne\/spr_HeartPlusOne.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "b015ea2e-aeb7-4b3c-b86a-adda612a3cc3",
             "Value": {
                 "id": "f338ff67-1a8c-482e-ba23-89456c6d9547",
@@ -2357,6 +2414,25 @@
             }
         },
         {
+            "Key": "bed84e8d-677a-45b2-823a-f92ed5607c4d",
+            "Value": {
+                "id": "9fa65709-32c5-405c-9e50-dece8bdc07ea",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/obj_SwordGet\/obj_SwordGet.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "bf55394e-f902-44c4-92fe-be9294f9e2cc",
             "Value": {
                 "id": "954de25a-b851-4dca-b043-672e5aaa339d",
@@ -2447,7 +2523,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "rooms\/rm_sword\/rm_sword.yy",
+                "resourcePath": "rooms\/rm_path\/rm_path.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -3095,6 +3171,25 @@
                 ],
                 "resourcePath": "options\/mac\/options_mac.yy",
                 "resourceType": "GMMacOptions"
+            }
+        },
+        {
+            "Key": "fa53e696-84ad-4281-b9fb-903e20e5af0e",
+            "Value": {
+                "id": "a5dc4cc8-7a40-4b52-b1b4-4ba36f30801f",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/obj_HeartPlusOne\/obj_HeartPlusOne.yy",
+                "resourceType": "GMObject"
             }
         },
         {
