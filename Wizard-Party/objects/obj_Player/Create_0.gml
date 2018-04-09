@@ -55,3 +55,9 @@ sprite_[player.hit, dir.right] = spr_PlayerRunRight;
 sprite_[player.hit, dir.up] = spr_PlayerRunUp;
 sprite_[player.hit, dir.left] = spr_PlayerRunRight;
 sprite_[player.hit, dir.down] = spr_PlayerRunDown;
+
+// Bomb
+sprite_[player.bomb, dir.right] = spr_PlayerRunRight;
+sprite_[player.bomb, dir.up] = spr_PlayerRunUp;
+sprite_[player.bomb, dir.left] = spr_PlayerRunRight;
+sprite_[player.bomb, dir.down] = spr_PlayerRunDown;

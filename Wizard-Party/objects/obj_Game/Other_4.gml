@@ -1,5 +1,8 @@
-/// @description Insert description here
-// You can write your code in this editor
+
+if global.load == true {
+	global.player_start_position = instance_position(global.start_x, global.start_y, obj_StartPosition);
+	global.load = false;
+}
 
 if instance_exists(global.player_start_position) {
 	if instance_exists(obj_Player) {
@@ -12,5 +15,5 @@ if instance_exists(global.player_start_position) {
 		var _start_y = global.player_start_position.y;
 		instance_create_layer(_start_x, _start_y, "Instances", obj_Player);
 	}
-	global.player_start_position = noone;
 }
+
