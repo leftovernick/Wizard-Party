@@ -12,6 +12,7 @@ if _above and obj_Input.action_one_pressed_ or _below and obj_Input.action_one_p
 	x = obj_Player.x - 7;
 	y = obj_Player.y - 32;
 	event_user(0)
-	alarm[0] = global.one_second;
+	alarm[0] = global.one_second/2;
 	obj_Player.state_ = player.found_item;
+	audio_play_sound(a_key_item, 8, false);
 }
