@@ -5,7 +5,7 @@
     "creationCodeFile": "",
     "inheritCode": true,
     "inheritCreationOrder": true,
-    "inheritLayers": true,
+    "inheritLayers": false,
     "instanceCreationOrderIDs": [
         "adb6e617-1d67-49af-b08c-914683dd64c3",
         "ed26dc13-16c5-4b98-93f4-d5c276225873",

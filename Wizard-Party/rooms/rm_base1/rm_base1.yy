@@ -65,7 +65,7 @@
         },
         {
             "__type": "GMRTileLayer_Model:#YoYoStudio.MVCFormat",
-            "name": "Tiles_1",
+            "name": "Dungeon",
             "id": "69ad467d-75cd-4f85-b70a-780fb828cd6a",
             "depth": 200,
             "grid_x": 32,

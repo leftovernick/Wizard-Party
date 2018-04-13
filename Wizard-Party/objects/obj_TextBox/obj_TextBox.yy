@@ -1,33 +1,43 @@
 {
-    "id": "69779442-60d7-46a2-8abe-16989aaf53a6",
+    "id": "5583a8c6-9059-431a-8e72-8d3d187ce7b6",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_NPC",
+    "name": "obj_TextBox",
     "eventList": [
         {
-            "id": "4524e4dc-53f7-4119-b033-c7064815eb52",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 3,
-            "m_owner": "69779442-60d7-46a2-8abe-16989aaf53a6"
-        },
-        {
-            "id": "9d543aaf-8e6c-4561-b29c-6bfc51b457d0",
+            "id": "35609966-ce3d-433d-9389-0be9fceb08c8",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "69779442-60d7-46a2-8abe-16989aaf53a6"
+            "m_owner": "5583a8c6-9059-431a-8e72-8d3d187ce7b6"
+        },
+        {
+            "id": "1127c801-8c08-4de5-8c3e-ccdb3b9cea84",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 8,
+            "m_owner": "5583a8c6-9059-431a-8e72-8d3d187ce7b6"
+        },
+        {
+            "id": "20477863-0962-4844-88cc-d796387ca5a6",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "5583a8c6-9059-431a-8e72-8d3d187ce7b6"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
-    "parentObjectId": "0a1f61b1-5cf4-4151-ad16-2be9f188701f",
+    "parentObjectId": "00000000-0000-0000-0000-000000000000",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,

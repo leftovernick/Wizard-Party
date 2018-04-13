@@ -25,9 +25,10 @@ if _x_input == 0 and _y_input == 0 {
 	roll_direction_ = direction_facing_*90;
 }
 
-inventory_use_item(obj_Input.action_one_pressed_, global.item[0]);
-inventory_use_item(obj_Input.action_two_pressed_, global.item[1]);
-
+if alarm[2] <= 0 {
+	inventory_use_item(obj_Input.action_one_pressed_, global.item[0]);
+	inventory_use_item(obj_Input.action_two_pressed_, global.item[1]);
+}
 
 
 
