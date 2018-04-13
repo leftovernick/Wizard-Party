@@ -1,5 +1,5 @@
 
 event_inherited();
 
-my_text_[0] = "Uh... Hey kid. I don't have anyting for you...";
-my_text_[1] = "so... scurry along";
+my_text_[0] = "Uh... Hey kid. \nI don't have \nanything for \nyou... so...";
+my_text_[1] = "Piss off.";

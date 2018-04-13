@@ -5,6 +5,7 @@ depth = -100000;
 
 text_[0] = "Uh Oh.. You shouldn't see this.";
 page_ = 0;
+char_count_ = 0;
 
 width_ = 128;
 height_ = 52;
