@@ -2,7 +2,7 @@
     "id": "e8bb361b-37da-46f8-bf2a-25106d9248a9",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "vineDungeon",
+    "name": "spr_Dungeon",
     "For3D": false,
     "HTile": true,
     "VTile": true,

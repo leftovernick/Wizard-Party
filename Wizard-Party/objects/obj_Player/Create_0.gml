@@ -18,7 +18,8 @@ enum player {
 	bomb,
 	bow,
 	found_item,
-	hit
+	hit,
+	talking
 }
 
 enum dir {
@@ -67,3 +68,9 @@ sprite_[player.found_item, dir.right] = spr_PlayerFoundItem;
 sprite_[player.found_item, dir.up] = spr_PlayerFoundItem;
 sprite_[player.found_item, dir.left] = spr_PlayerFoundItem;
 sprite_[player.found_item, dir.down] = spr_PlayerFoundItem;
+
+// Talking
+sprite_[player.talking, dir.right] = spr_PlayerRunRight;
+sprite_[player.talking, dir.up] = spr_PlayerRunUp;
+sprite_[player.talking, dir.left] = spr_PlayerRunRight;
+sprite_[player.talking, dir.down] = spr_PlayerRunDown;
