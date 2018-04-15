@@ -1,3 +1,6 @@
+//Debug
+debug_ = false;
+
 global.one_second = game_get_speed(gamespeed_fps);
 global.destroyed = [];
 instance_create_layer(0, 0, "Instances", obj_Input);
@@ -18,7 +21,7 @@ global.start_x = noone;
 global.start_y = noone;
 global.load = false;
 
-//audio_play_sound(a_music, 10, true);
+audio_play_sound(a_music, 10, true);
 var _view_width = camera_get_view_width(view_camera[0]);
 var _view_height = camera_get_view_height(view_camera[0]);
 display_set_gui_size(_view_width, _view_height);

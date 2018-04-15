@@ -1635,6 +1635,25 @@
             }
         },
         {
+            "Key": "67539e75-96b9-4cbb-a0ca-8f9a576fc4aa",
+            "Value": {
+                "id": "bba597b6-e261-41b1-b6a8-cfd8b4ab054f",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "scripts\/array_2d_find_index\/array_2d_find_index.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "69779442-60d7-46a2-8abe-16989aaf53a6",
             "Value": {
                 "id": "49baf124-5467-40a7-ad75-073f739d2931",
@@ -3820,6 +3839,7 @@
         "f33fecd6-2a31-4b8c-b751-218b4c26463f",
         "6c83c14b-5428-42f7-8fe5-3ebbe735428d",
         "654690da-ba8e-435a-9d41-3d85110dcc35",
+        "67539e75-96b9-4cbb-a0ca-8f9a576fc4aa",
         "5ac183bf-1115-49c3-bb2e-ba0adf7b02f1",
         "91161f59-150e-463b-a1c9-98d68671ac82",
         "2c130a1f-b68e-4c47-a15e-009910f10137",

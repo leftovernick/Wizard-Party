@@ -31,6 +31,10 @@ enum dir {
 
 starting_state_ = player.move;
 state_ = starting_state_;
+quests_ = ds_grid_create(3,1);
+ds_grid_add(quests_, 0,0, "ID");
+ds_grid_add(quests_, 1, 0, "Completed?");
+ds_grid_add(quests_, 2, 0, "Counter");
 
 // Sprite Lookup Table
 // Move
